@@ -55,6 +55,18 @@ The project follows the Medallion Architecture:
 
 ---
 
+## 📊 Dataset Information
+The project uses the **AdventureWorks Retail Dataset**, which includes:
+
+- **Customers** – Customer details and demographics  
+- **Products** – Product information  
+- **Categories & Subcategories** – Product classification  
+- **Sales** – Transaction and order details  
+
+These datasets are used to simulate real-world retail analytics scenarios.
+
+---
+
 ## 📊 Use Cases / Insights
 - Total Sales Analysis  
 - Top Customers Identification  
@@ -91,12 +103,27 @@ https://www.youtube.com/watch?v=HN4BgG09YpM
 ---
 
 ## 👩‍💻 Team Members
-- 22PA1A1203 (Team Lead)  
+- 22PA1A1203 
 - 22PA1A1246  
 - 23PA5A1209  
 
 ---
 
+## 🧑‍💼 Team Roles
+
+| Role                     | Responsibility                          |
+|--------------------------|----------------------------------------|
+| Ingestion Engineer       | Bronze layer data loading              |
+| Transformation Engineer  | Silver layer processing                |
+| Analytics Engineer       | Gold layer KPI creation                |
+
+---
+
+## 📹 Project Demo
+👉 YouTube Video:  
+https://www.youtube.com/watch?v=HN4BgG09YpM  
+
+---
 ## 📌 Conclusion
 This project demonstrates how a Lakehouse architecture can be used to build scalable, efficient, and reliable data pipelines. It transforms raw retail data into valuable insights for better business decisions.
 
